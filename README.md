@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm João Sagorro</h1>
 <h3 align="center">An enthusiast junior full stack web developer from Portugal</h3>
 
-- 🔭 I’m currently working on [a communication-centred web application for sports clubs](https://github.com/kmason9/teamsync.git)
+- 🔭 I’m currently working on [a communication-centred web application for sports clubs](https://github.com/JoaoSagorro/teamsync)
 
 - 🌱 I’m currently working **on perfecting my skills as a full stack developer, using Ruby on Rails**
 
