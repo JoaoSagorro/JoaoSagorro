@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a communication-centred web application for sports clubs](https://github.com/JoaoSagorro/teamsync)
 
-- 🌱 I’m currently working **on perfecting my skills as a full stack developer, using Ruby on Rails**
+- 🌱 I’m currently working **on perfecting my skills as a full stack developer**
 
 - 👯 I’m looking forward to start working on **an managing software for Crossfit Gyms**
 
