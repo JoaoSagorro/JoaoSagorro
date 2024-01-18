@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [a communication-centred web application for sports clubs](https://github.com/JoaoSagorro/teamsync)
 
-- 🌱 I’m currently working **on perfecting my skills as a full stack developer**
+- 🌱 I’m currently working **on perfecting my skills as a full-stack developer**
 
 - 👯 I’m looking forward to start working on **an managing software for Crossfit Gyms**
 
-- 📚 I'm planning on start learning about **react, vue and node.js**
+- 📚 I'm learning **react, next js, typescript and tailwind CSS**
 
 - ⚡ Fun fact about me: **I do Crossfit 🏋🏻‍♂️**
 
