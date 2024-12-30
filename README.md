@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm João Sagorro</h1>
-<h3 align="center">An enthusiast junior full stack web developer from Portugal</h3>
+<h3 align="center">An enthusiast junior backend developer from Portugal</h3>
 
 - 🔭 I’m currently working on [a communication-centred web application for sports clubs](https://github.com/JoaoSagorro/teamsync)
 
