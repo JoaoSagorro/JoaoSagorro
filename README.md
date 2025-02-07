@@ -1,20 +1,35 @@
-<h1 align="center">Hello there 👋, I'm João Sagorro</h1>
-<h3 align="center">An enthusiast junior backend developer from Portugal</h3>
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm a Backend Developer specializing in .NET 🚀</h3>
 
-- 🔭 I’m currently working on [a communication-centred web application for sports clubs](https://github.com/JoaoSagorro/teamsync)
+About Me
 
-- 🌱 I’m currently working **on perfecting my skills as a full-stack developer**
+🔧 Passionate about building scalable and efficient backend systems.
 
-- 👯 I’m looking forward to start working on **an managing software for Crossfit Gyms**
+💡 Love creating applications that enhance productivity and streamline workflows.
 
-- 📚 I'm learning **react, next js, typescript and tailwind CSS**
+📈 Always exploring new technologies and best practices to optimize performance.
 
-- ⚡ Fun fact about me: **I do Crossfit 🏋🏻‍♂️**
+📚 Currently working on a Library .NET web application using Razor and WebAPI.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joao sagorro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao sagorro" height="30" width="40" /></a>
-</p>
+Tech Stack
+
+💻 Languages: C#, SQL, Ruby
+
+🛠 Frameworks & Tools: .NET Core, ASP.NET, Entity Framework, Ruby on Rails
+
+📡 Databases: SQL Server, PostgreSQL
+
+☁ Cloud & DevOps: Azure, Docker, CI/CD Pipelines
+
+My Work
+
+🚀 Check out my repositories to see some of my projects in action!
+
+Let's Connect
+
+💡 Always open to collaboration on exciting projects!
+
+
 
 <h3 align="center">Tech Stack:</h3>
 <div align="center">
@@ -33,8 +48,9 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
 </div>
 
-
-![JoaoSagorro's Stats](https://github-readme-stats.vercel.app/api?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&count_private=true)<br/>
-![JoaoSagorro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoSagorro&theme=gotham&hide_border=true)<br/>
-![JoaoSagorro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+	![JoaoSagorro's Stats](https://github-readme-stats.vercel.app/api?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&count_private=true)<br/>
+	![JoaoSagorro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoSagorro&theme=gotham&hide_border=true)<br/>
+	![JoaoSagorro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+</div>
 
