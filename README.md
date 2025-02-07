@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosagorro&show_icons=true&locale=en&layout=compact" alt="joaosagorro" /></p>
 
-![JoaoSagorro's Stats](https://github-readme-stats.vercel.app/api?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![JoaoSagorro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoSagorro&theme=gotham&hide_border=true)
-![JoaoSagorro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+<div>![JoaoSagorro's Stats](https://github-readme-stats.vercel.app/api?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&count_private=true)</div>
+<div>![JoaoSagorro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoSagorro&theme=gotham&hide_border=true)</div>
+<div>![JoaoSagorro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&layout=compact)</div>
 
