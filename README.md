@@ -1,7 +1,9 @@
 <h1 align="center">Hi there! 👋</h1>
+<hr/>
 <h3 align="center">I'm a Backend Developer specializing in .NET 🚀</h3>
 
-About Me
+<div align="center">
+<h3>About Me</h3>
 
 🔧 Passionate about building scalable and efficient backend systems.
 
@@ -11,7 +13,7 @@ About Me
 
 📚 Currently working on a Library .NET web application using Razor and WebAPI.
 
-Tech Stack
+<h3>Tech Stack</h3>
 
 💻 Languages: C#, SQL, Ruby
 
@@ -21,14 +23,15 @@ Tech Stack
 
 ☁ Cloud & DevOps: Azure, Docker, CI/CD Pipelines
 
-My Work
+<h3>My Work</h3>
 
 🚀 Check out my repositories to see some of my projects in action!
 
-Let's Connect
+<h3>Let's Connect</h3>
 
 💡 Always open to collaboration on exciting projects!
-
+</div>
+<hr/>
 
 
 <h3 align="center">Tech Stack:</h3>
