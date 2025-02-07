@@ -49,7 +49,7 @@ Let's Connect
 </div>
 
 
-	![JoaoSagorro's Stats](https://github-readme-stats.vercel.app/api?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&count_private=true)<br/>
-	![JoaoSagorro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoSagorro&theme=gotham&hide_border=true)<br/>
-	![JoaoSagorro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![JoaoSagorro's Stats](https://github-readme-stats.vercel.app/api?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&count_private=true)<br/>
+![JoaoSagorro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoSagorro&theme=gotham&hide_border=true)<br/>
+![JoaoSagorro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSagorro&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
