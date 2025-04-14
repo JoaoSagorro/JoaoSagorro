@@ -21,8 +21,6 @@
 
 📡 Databases: SQL Server, PostgreSQL
 
-// ☁ Cloud & DevOps: Azure, Docker, CI/CD Pipelines
-
 <h3>My Work</h3>
 
 🚀 Check out my repositories to see some of my projects in action!
