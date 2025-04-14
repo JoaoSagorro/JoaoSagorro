@@ -21,7 +21,7 @@
 
 📡 Databases: SQL Server, PostgreSQL
 
-☁ Cloud & DevOps: Azure, Docker, CI/CD Pipelines
+// ☁ Cloud & DevOps: Azure, Docker, CI/CD Pipelines
 
 <h3>My Work</h3>
 
